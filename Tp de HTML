@@ -1,0 +1,27 @@
+<html>
+<head> 
+<title>Tarea de html de Demian montanez</title>
+<link rel="stylesheet" href="styles.css" type="text/css">
+</head> 
+<body>
+<div id="divclass">
+<h1> Demian montanez</h1>
+<h3>presenta para Henry su</h3>
+<h4>Tarea de HTML/CSS</h4>
+ 
+</div>
+<div id="divclass">
+<span id="span id">Mi comida favorita son las milanesas </span>
+</div>
+<a href="https://www.restauranteesventall.com/"> Haga "click" para conocer mi restaurante </a>
+<div id="thierdiv">
+<ul>
+<li>comida favorita <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLfd7ArJ-xwKIWiwsXSDEg0JU-BgS2LnfZA&usqp=CAU">
+</li>
+<li >
+ restaurante favorito <img src="https://www.revistaareatres.com.ar/files/image/2/2184/5ed05b1e31134_905_510!.jpg?s=9ddb2262c4eb2c950f6921b0cd5c21c6&d=1590756130">
+</li>
+</ul>
+</div>
+</body>
+</html>
