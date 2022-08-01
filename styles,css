@@ -1,0 +1,16 @@
+body{  background: url(https://us.123rf.com/450wm/usbfco/usbfco1512/usbfco151200040/49500952-monta%C3%B1as-en-el-fondo-cielo-estrellado.jpg);
+    
+}
+h1 { text-decoration-style: dotted;  color: rgb(176, 165, 165); display: flex; justify-content: center; 
+    } 
+    img {width: 400px;}
+h3  {color: yellow;  display: flex; justify-content: center;}
+h4  { color: black;  display: flex; justify-content: center;}
+a   {display: flex; justify-content: center;}
+img {display: flex; justify-content: center;}
+div span    {display: flex; justify-content: center;}
+
+#thierdiv { display: flex; justify-content: center; height: 400px; width: 500px; background-color: rgb(152, 152, 161); padding: 50px; border: 5px solid rgb(0, 0, 0);} 
+#spanid {font-size: 18px; margin: 50px;}
+li { display: flex; justify-content: center; }
+
